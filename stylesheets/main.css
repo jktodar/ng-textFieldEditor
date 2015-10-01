@@ -1,0 +1,15 @@
+.title {
+  margin-top: 25px;
+  margin-bottom: 25px;
+  color: white;
+  background-color: #444;
+  text-align: center; }
+
+.form {
+  padding: 25px; }
+  .form input {
+    margin: 5px; }
+  .form button {
+    margin: 5px; }
+
+/*# sourceMappingURL=main.css.map */
